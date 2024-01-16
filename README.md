@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://www.tensorflow.org/images/tf_logo_horizontal.png">
 </div>
+this is readme part 
 
 [![Python](https://img.shields.io/pypi/pyversions/tensorflow.svg)](https://badge.fury.io/py/tensorflow)
 [![PyPI](https://badge.fury.io/py/tensorflow.svg)](https://badge.fury.io/py/tensorflow)
